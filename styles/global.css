@@ -31,14 +31,10 @@ body {
   background: var(--background);
 }
 
-body,
-button,
-input,
-textarea {
+body, button, input, textarea {
   /*clamp: intervalo de tamanho, separado em menor tamanho, tamanho padrão, e o tamanho para dispositivos maiores*/
   font-size: clamp(14px, 1.6rem, 2vw);
   font-family: "Open Sans", sans-serif;
-  /* font-family: 'Poppins', sans-serif; */
 }
 
 .content {
@@ -56,4 +52,47 @@ textarea {
   clip-path: rect(0, 0, 0, 0);
   white-space: nowrap;
   border-width: 0;
+}
+
+/* Input and buttons */
+input, button, .button {
+  height: 5rem;
+  border-radius: 0.8rem;
+}
+
+button, .button {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  line-height: 0;/*e o espaçamento entre as linhas do texto*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--blue);
+  color: var(--white);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover, .button:hover {
+  filter: brightness(1.2);
+}
+
+button > img, .button > img {
+  margin-right: 1rem;
+  width: 2rem;
+}
+
+button.outlined, .button.outlined {
+  background: var(--white);
+  color: var(--blue);
+  border: .2rem solid var(--blue);
+}
+
+.content header{
+  width: 80%;
+  margin: 3.5rem auto;
+}
+
+.content header img{
+  width: 16.10rem;
 }
