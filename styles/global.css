@@ -22,6 +22,7 @@ html {
   --grey-dark: #4d5e77;
   --grey-blue: #a1b2cd;
   --grey-light: #e5eaf1;
+  --grey-medium: #EAECF2;
 
   font-size: 62.5%; /*10px*/
 }
@@ -88,6 +89,22 @@ button.outlined, .button.outlined {
   color: var(--blue);
   border: .2rem solid var(--blue);
 }
+
+button.red, .button.red {
+  background: var(--red);
+  color: var(--white);
+}
+
+button.grey, .button.grey {
+  background: var(--grey-light);
+  color: var(--grey-dark);
+}
+button.grey, .button.grey:hover{
+  filter: brightness(1);
+  background: #e1e7f0;
+}
+
+/* Header */
 
 .content header{
   width: 80%;
