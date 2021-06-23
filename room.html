@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="styles/room.css">
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@500;700&display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;500;700&display=swap"
         rel="stylesheet">
 </head>
 
@@ -32,20 +32,40 @@
         </header>
 
         <main>
-            <section id="question-forms">
+            <section id="question-form">
                 <h2>Faça sua pergunta</h2>
                 <form action="">
                     <label class="sr-only" for-id="question">Oque você quer perguntar</label>
                     <textarea name="question" id="question" placeholder="Oque você quer perguntar"></textarea>
-                    <fotter>
+                    <footer>
                         <div>
-                            <img src="" alt="Esta pergunta é anônima">
+                            <img src="assets/lock.svg" alt="Cadeado">
                             Esta pergunta é anônima
-                            <button>Enviar</button>
                         </div>
-                    </fotter>
+                        <button>Enviar</button>
+                    </footer>
                 </form>
             </section>
+
+            <section id="questions">
+                <h2 class="sr-only">Perguntas da comunidade</h2>
+                <div class="questions">
+                    <div class="question-wrapper">
+                        <div class="question-content">
+                            <div class="user">
+                                <img src="assets/avatar.svg" alt="Avatar">
+                            </div>
+                        </div>
+                        <div class="question">
+                            <p>Qual a diferença entre const, var e let no Javascript?</p>
+                        </div>
+                        <div class="actions">
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
         </main>
 
     </div>
