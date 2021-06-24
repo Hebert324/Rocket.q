@@ -10,5 +10,9 @@ route.get('/', (req, res) => res.render('index'))
 route.get('/room', (req, res) => res.render('room'))
 route.get('/create-pass', (req, res) => res.render('create-pass'))
 
+//get e pegar o post e enviar
+//formato que o formulario de dentro da modal tem que passar a informação
+//route.post('/room/:room/:question/:action')
+
 //aqui estamos exportando a route
 module.exports = route
