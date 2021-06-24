@@ -15,6 +15,8 @@ server.use(express.static("public"))
 //o path pega o caminho da pasta aonde esta nosso projeto aplica um join onde ele vai juntar o dirname que a pasta src e juntar com views que a pasta que queremos pegar. ficando assim rocketq/src/views
 server.set('views', path.join(__dirname, 'views'))
 
+server.use(express.urlencoded({extended: true}))
+
 //aqui falamos pro server qual a rota ele ira usar que no caso e a o arquivo route.js
 server.use(route)
 
