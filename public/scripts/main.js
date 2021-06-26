@@ -1,4 +1,5 @@
 import Modal from './modal.js'
+// import watchCopy from './watchCopy.js'
 
 const modal = Modal()
 
@@ -43,3 +44,5 @@ function handleClick(event, check = true) {
     //abrir modal
     modal.open()
 }
+
+// watchCopy()
