@@ -11,7 +11,8 @@ const copyToClipboard = text => {
 const watchCopy = () => { 
     const copyDiv = document.getElementById('room-id'); 
     const copyText = copyDiv.dataset.id.toString().trim(); 
-    copyDiv.addEventListener('click', e => copyToClipboard(copyText));
+    copyDiv.addEventListener('click', e => 
+    copyToClipboard(copyText, alert("Texto copiado")))
 }
 
-// export { watchCopy }
+ export { watchCopy }
