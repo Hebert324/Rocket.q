@@ -1,5 +1,3 @@
-# Rocket.q
-
 <h1 align="center">
   <img alt="rocket.q" title="rocket.q" src="https://github.com/Hebert324/Rocket.q/blob/main/public/images/Logo-github.svg" width="220px" />
 </h1>
