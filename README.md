@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img alt="rocket.q" title="rocket.q" src="https://github.com/Hebert324/Rocket.q/blob/main/public/images/Logo-github.svg" width="220px" />
+  Rocket.Q
 </h1>
+
+### Rocket.Q é um website desenvolvido pela Rocketseat na 6ª semana NLW com o objetivo de criar salas de chat onde outras pessoas possam fazer perguntas anônimas.. 💰
+
+## 💻 Project
 
 ## 🚀 Tecnologies
 
@@ -13,10 +17,6 @@ This was developped with the following tecnologies:
 - EJS
 - Express
 - SQLite
-
-## 💻 Project
-
-Rocket.Q é um website desenvolvido pela Rocketseat na 6ª semana NLW com o objetivo de criar salas de chat onde outras pessoas possam fazer perguntas anônimas.. 💰
 
 ## 🔖 Layout
 
