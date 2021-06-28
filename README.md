@@ -1,7 +1,7 @@
 # Rocket.q
 
 <h1 align="center">
-  <img alt="rocket.q" title="rocket.q" src="../public/images/logo-github.svg" width="220px" />
+  <img alt="rocket.q" title="rocket.q" src="/images/logo-github.svg" width="220px" />
 </h1>
 
 <p align="center">
