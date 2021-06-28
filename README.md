@@ -5,6 +5,7 @@
 ### Rocket.Q é um website desenvolvido pela Rocketseat na 6ª semana NLW com o objetivo de criar salas de chat onde outras pessoas possam fazer perguntas anônimas.. 💰
 
 ## 💻 Project
+<img alt="gif" src="https://github.com/Hebert324/Web.finances/blob/main/gif/web.finance.gif">
 
 ## 🚀 Tecnologies
 
