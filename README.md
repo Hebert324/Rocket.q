@@ -1,27 +1,8 @@
 # Rocket.q
 
 <h1 align="center">
-  <img alt="rocket.q" title="rocket.q" src="public/images/logo-github.svg" width="220px" />
+  <img alt="rocket.q" title="rocket.q" src="./public/images/logo-github.svg" width="220px" />
 </h1>
-
-<p align="center">
-  <a href="#-tecnologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
-
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="dev.finances" src="./public/assets/home.png" width="70%">
-</p>
 
 ## 🚀 Tecnologies
 
@@ -37,7 +18,7 @@ This was developped with the following tecnologies:
 
 ## 💻 Project
 
-Rocket Q is a webapp designed by Rocketseat in the 6th NLW week with the purpose to create chat rooms where others can make anonymous questions. 💰
+Rocket.Q é um website desenvolvido pela Rocketseat na 6ª semana NLW com o objetivo de criar salas de chat onde outras pessoas possam fazer perguntas anônimas.. 💰
 
 ## 🔖 Layout
 
@@ -49,4 +30,4 @@ This project is under MIT license.
 
 ---
 
-Made with ♥ by myself together with Rocketseat :wave: 
+Desenvolvido por Hebert Rocha juntamente a Rocketseat :wave: 
