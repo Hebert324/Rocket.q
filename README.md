@@ -29,6 +29,29 @@ Você pode verificar o layout em [link](https://www.figma.com/file/v3w1iRz1PUlN1
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
+## Teste o site em sua máquina
+
+#### Instruções de instalação
+
+    # Clonar o repositório
+    $ git clone https://github.com/matheusz98/rocket.q
+
+    # Ou
+    # Ir no code (botãozinho verde) e fazer download do zip.
+
+    # Entrar na pasta da aplicação
+    $ cd rocketq
+    # ou abrir o proprio terminal do VScode
+
+    # Instalar as dependências
+    $ npm install
+
+    # Iniciar o servidor
+    $ npm start
+    
+    # abra o navegador e digite
+    $ http://localhost:3000
+
 ---
 
 Desenvolvido por Hebert Rocha juntamente a Rocketseat :wave: 
