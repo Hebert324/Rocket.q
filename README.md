@@ -27,4 +27,6 @@ Você pode verificar o layout em [link](https://www.figma.com/file/v3w1iRz1PUlN1
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
+---
+
 Desenvolvido por Hebert Rocha juntamente a Rocketseat :wave: 
