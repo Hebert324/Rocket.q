@@ -33,23 +33,24 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 #### Instruções de instalação
 
-    # Clonar o repositório
+    # Clonar o repositório.
     $ git clone https://github.com/matheusz98/rocket.q
 
     # Ou
     # Ir no code (botãozinho verde) e fazer download do zip.
 
-    # Entrar na pasta da aplicação
+    # Entrar na pasta da aplicação.
     $ cd rocketq
-    # ou abrir o proprio terminal do VScode
+    
+    # ou abrir o terminal do VScode quando estiver na pasta do projeto.
 
-    # Instalar as dependências
+    # Instalar as dependências.
     $ npm install
 
-    # Iniciar o servidor
+    # Iniciar o servidor.
     $ npm start
     
-    # abra o navegador e digite
+    # abra o navegador e digite.
     $ http://localhost:3000
 
 ---
