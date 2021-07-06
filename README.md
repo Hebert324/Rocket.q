@@ -1,5 +1,5 @@
 <h1 align="center">
-  Rocket.Q
+  <img alt="Rocket.Q" title="Rocket.Q" src="https://github.com/jakeliny/Rocket.Q/blob/main/.github/rocketq.png" width="220px" />
 </h1>
 
 ### Rocket.Q é um website desenvolvido pela Rocketseat na 6ª semana NLW com o objetivo de criar salas de chat onde outras pessoas possam fazer perguntas anônimas.. 💰
