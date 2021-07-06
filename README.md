@@ -2,10 +2,13 @@
   <img alt="Rocket.Q" title="Rocket.Q" src="https://github.com/jakeliny/Rocket.Q/blob/main/.github/rocketq.png" width="220px" />
 </h1>
 
-### Rocket.Q é um website desenvolvido pela Rocketseat na 6ª semana NLW com o objetivo de criar salas de chat onde outras pessoas possam fazer perguntas anônimas.. 💰
-
-## 💻 Project
+## 💻 veja
 <img alt="gif" src="https://github.com/Hebert324/Rocket.q/blob/main/gif/rocketq.gif">
+
+
+## Sobre o Projeto:
+
+O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
 
 ## 🚀 Tecnologies
 
