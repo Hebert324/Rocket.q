@@ -9,9 +9,7 @@
 
 O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
 
-## 🚀 Tecnologies
-
-This was developped with the following tecnologies:
+## 🚀 Tecnologies utilizadas
 
 - HTML
 - CSS
@@ -34,7 +32,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 #### Instruções de instalação
 
     # Clonar o repositório.
-    $ git clone https://github.com/matheusz98/rocket.q
+    $ git clone https://github.com/Hebert324/Rocket.q
 
     # Ou
     # Ir no code (botãozinho verde) e fazer download do zip.
