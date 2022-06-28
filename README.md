@@ -53,4 +53,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Desenvolvido por [Hebert Rocha](https://www.linkedin.com/in/hebert-rocha-62318a1b3/) juntamente a [Rocketseat](https://app.rocketseat.com.br/dashboard) :wave: 
+Desenvolvido por [Hebert Rocha](https://www.linkedin.com/in/hebert-rc/) juntamente a [Rocketseat](https://app.rocketseat.com.br/dashboard) :wave: 
