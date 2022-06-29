@@ -23,10 +23,6 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 
 Você pode verificar o layout em [link](https://www.figma.com/file/v3w1iRz1PUlN1iaUdnRl7K/Roquet.q-%2302-(Copy)?node-id=159%3A1143&viewport=-5165%2C-1035%2C1.6507904529571533). 
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
 ## Teste o site em sua máquina
 
 #### Instruções de instalação
@@ -52,5 +48,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
     $ http://localhost:3000
 
 ---
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 Desenvolvido por [Hebert Rocha](https://www.linkedin.com/in/hebert-rc/) juntamente a [Rocketseat](https://app.rocketseat.com.br/dashboard) :wave: 
