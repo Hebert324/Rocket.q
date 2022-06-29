@@ -23,30 +23,31 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 
 Você pode verificar o layout em [link](https://www.figma.com/file/v3w1iRz1PUlN1iaUdnRl7K/Roquet.q-%2302-(Copy)?node-id=159%3A1143&viewport=-5165%2C-1035%2C1.6507904529571533). 
 
-## Teste o site em sua máquina
+## Teste o Projeto em sua máquina:
 
 #### Instruções de instalação
 
-    # Clonar o repositório.
-    $ git clone https://github.com/Hebert324/Rocket.q
+```bash
+# Clonar o repositório.
+$ git clone https://github.com/Hebert324/Rocket.q
 
-    # Ou
-    # Ir no code (botãozinho verde) e fazer download do zip.
+# Ou
+# Ir no code (botãozinho verde) e fazer download do zip.
 
-    # Entrar na pasta da aplicação.
-    $ cd rocketq
-    
-    # ou abrir o terminal do VScode quando estiver na pasta do projeto.
+# Entrar na pasta da aplicação.
+$ cd rocketq
 
-    # Instalar as dependências.
-    $ npm install ou yarn
+# ou abrir o terminal do VScode quando estiver na pasta do projeto.
 
-    # Iniciar o servidor.
-    $ npm start ou yarn
-    
-    # abra o navegador e digite.
-    $ http://localhost:3000
-    
+# Instalar as dependências.
+$ npm install ou yarn
+
+# Iniciar o servidor.
+$ npm start ou yarn
+
+# abra o navegador e digite.
+$ http://localhost:3000
+```
 
 ## :memo: Licença
 
